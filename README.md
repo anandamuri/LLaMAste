@@ -26,7 +26,9 @@ This tool uses the gnews library to scrape current news articles and employs LLa
    ```
 
 Demo:
-https://github.com/user-attachments/assets/5c1e8311-98f0-450f-9ef4-70ff1ece2516 
+https://github.com/user-attachments/assets/fab5d452-6bfe-4f32-a08c-c59113ed198b
+
+
 
 <img width="1512" height="489" alt="1 5" src="https://github.com/user-attachments/assets/e15197ca-9b52-4ff0-83da-d5132dbe5bb9" />
 <img width="1509" height="574" alt="2" src="https://github.com/user-attachments/assets/a9732889-2d90-423c-a67f-c109bc057d94" />
