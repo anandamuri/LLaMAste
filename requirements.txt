@@ -1,0 +1,5 @@
+streamlit
+gnews
+newspaper3k
+requests
+ollama
