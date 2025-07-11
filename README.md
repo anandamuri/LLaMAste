@@ -1,6 +1,6 @@
 # LLM News Chatbot
 
-An LLM-powered news chatbot built with Python and Streamlit, designed to summarize recent headlines. This tool uses the gnews library to fetch the latest google news articles and trafilatura with playwright to extract full article content. Summarization uses a local LLaMA 3 model via ollama, prompt engineered to produce concise summaries. Users can interact through a Streamlit interface with dark/light mode, which supports chat history for follow-up questions. 
+An LLM-powered news chatbot built with Python and Streamlit, designed to summarize recent headlines. This tool uses the gnews library to fetch the latest google news articles and trafilatura with playwright to extract full article content. Summarization uses a local LLaMA 3 model via ollama, prompt engineered to produce concise summaries. Users can interact through a Streamlit interface with dark/light mode, which supports chat history for follow-up questions. The model does occasionally hallucinate.
 
 ## Run Instructions
 
