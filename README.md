@@ -28,9 +28,11 @@ Demo:
 
 https://github.com/user-attachments/assets/fab5d452-6bfe-4f32-a08c-c59113ed198b
 
-<img width="1512" height="818" alt="dark" src="https://github.com/user-attachments/assets/2a983e7e-ee93-4030-b58e-a0de888fe6f2" />
 <img width="1512" height="489" alt="1 5" src="https://github.com/user-attachments/assets/e15197ca-9b52-4ff0-83da-d5132dbe5bb9" />
 <img width="1509" height="574" alt="2" src="https://github.com/user-attachments/assets/a9732889-2d90-423c-a67f-c109bc057d94" />
 <img width="1511" height="462" alt="3" src="https://github.com/user-attachments/assets/785ccf66-c999-48f9-87d9-786e2d020675" />
 <img width="1512" height="461" alt="4" src="https://github.com/user-attachments/assets/56793a1c-dbe6-451e-9b25-8fbd1228682f" />
+
+Themes:
+<img width="1512" height="818" alt="dark" src="https://github.com/user-attachments/assets/2a983e7e-ee93-4030-b58e-a0de888fe6f2" />
 <img width="1511" height="820" alt="light" src="https://github.com/user-attachments/assets/240aac97-2d97-4271-9ff8-8559381b7507" />
