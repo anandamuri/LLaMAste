@@ -9,7 +9,7 @@ An LLM-powered news chatbot built with Python and Streamlit, designed to summari
    pip install -r requirements.txt
    ```
 
-3. Activate Virtual Environment
+3. Activate Virtual Environment:
    ```
    source venv/bin/activate
    ```
