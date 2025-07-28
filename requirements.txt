@@ -3,3 +3,5 @@ gnews
 newspaper3k
 requests
 ollama
+trafilatura
+playwright
