@@ -1,25 +1,41 @@
 # LLM News Chatbot
 
-An LLM-powered news chatbot built with Python and Streamlit, designed to summarize recent headlines. This tool uses the gnews library to fetch the latest google news articles and trafilatura with playwright to extract full article content. Summarization uses a local LLaMA 3 model via ollama, prompt engineered to produce concise summaries. Users can interact through a Streamlit interface with dark/light mode, which supports chat history for follow-up questions. The model does occasionally hallucinate.
+An LLM-powered news chatbot built with Python and Streamlit, designed to summarize recent headlines. This tool uses the gnews library to fetch the latest google news articles and trafilatura with playwright to extract full article content. Summarization uses a local LLaMA 3 model via Ollama, prompt engineered to produce concise summaries. Users can interact through a Streamlit interface with dark/light mode, which supports chat history for follow-up questions. The model does occasionally hallucinate.
 
 ## Run Instructions
 
-1. Install dependencies:
+1. Clone the Repo:
+
    ```
-   pip install -r requirements.txt
+   git clone git@github.com:anandamuri/LLaMAste.git
+   cd LLaMAste
    ```
 
-3. Activate Virtual Environment:
+2. Create a Virtual Environment:
+
+   ```
+   python3 -m venv venv
+   ```
+
+3. Activate Virtual Environment
+
    ```
    source venv/bin/activate
    ```
 
-2. Start Ollama:
+4. Install Dependencies:
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+5. Start Ollama:
+
    ```
    ollama run llama3
    ```
 
-3. Run the app:
+6. Run the App:
    ```
    streamlit run app.py
    ```
